@@ -1,0 +1,24 @@
+C:\Users\OscarWolter\source\repos\Berras bio\Infrastructure\bin\Debug\netcoreapp2.1\BerrasBio.Infrastructure.deps.json
+C:\Users\OscarWolter\source\repos\Berras bio\Infrastructure\bin\Debug\netcoreapp2.1\BerrasBio.Infrastructure.dll
+C:\Users\OscarWolter\source\repos\Berras bio\Infrastructure\bin\Debug\netcoreapp2.1\BerrasBio.Infrastructure.pdb
+C:\Users\OscarWolter\source\repos\Berras bio\Infrastructure\obj\Debug\netcoreapp2.1\BerrasBio.Infrastructure.csprojAssemblyReference.cache
+C:\Users\OscarWolter\source\repos\Berras bio\Infrastructure\obj\Debug\netcoreapp2.1\BerrasBio.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OscarWolter\source\repos\Berras bio\Infrastructure\obj\Debug\netcoreapp2.1\BerrasBio.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OscarWolter\source\repos\Berras bio\Infrastructure\obj\Debug\netcoreapp2.1\BerrasBio.Infrastructure.AssemblyInfo.cs
+C:\Users\OscarWolter\source\repos\Berras bio\Infrastructure\obj\Debug\netcoreapp2.1\BerrasBio.Infrastructure.dll
+C:\Users\OscarWolter\source\repos\Berras bio\Infrastructure\obj\Debug\netcoreapp2.1\BerrasBio.Infrastructure.pdb
+C:\Users\OscarWolter\source\repos\Berras bio\Infrastructure\bin\Debug\netcoreapp2.1\BerrasBio.Core.dll
+C:\Users\OscarWolter\source\repos\Berras bio\Infrastructure\bin\Debug\netcoreapp2.1\BerrasBio.Core.pdb
+C:\Users\OscarWolter\source\repos\Berras bio\Infrastructure\obj\Debug\netcoreapp2.1\BerrasBio.Infrastructure.csproj.CopyComplete
+C:\Users\OscarWolter\source\repos\BerrasBio\Infrastructure\bin\Debug\netcoreapp2.1\BerrasBio.Infrastructure.deps.json
+C:\Users\OscarWolter\source\repos\BerrasBio\Infrastructure\bin\Debug\netcoreapp2.1\BerrasBio.Infrastructure.dll
+C:\Users\OscarWolter\source\repos\BerrasBio\Infrastructure\bin\Debug\netcoreapp2.1\BerrasBio.Infrastructure.pdb
+C:\Users\OscarWolter\source\repos\BerrasBio\Infrastructure\bin\Debug\netcoreapp2.1\BerrasBio.Core.dll
+C:\Users\OscarWolter\source\repos\BerrasBio\Infrastructure\bin\Debug\netcoreapp2.1\BerrasBio.Core.pdb
+C:\Users\OscarWolter\source\repos\BerrasBio\Infrastructure\obj\Debug\netcoreapp2.1\BerrasBio.Infrastructure.csprojAssemblyReference.cache
+C:\Users\OscarWolter\source\repos\BerrasBio\Infrastructure\obj\Debug\netcoreapp2.1\BerrasBio.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OscarWolter\source\repos\BerrasBio\Infrastructure\obj\Debug\netcoreapp2.1\BerrasBio.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OscarWolter\source\repos\BerrasBio\Infrastructure\obj\Debug\netcoreapp2.1\BerrasBio.Infrastructure.AssemblyInfo.cs
+C:\Users\OscarWolter\source\repos\BerrasBio\Infrastructure\obj\Debug\netcoreapp2.1\BerrasBio.Infrastructure.csproj.CopyComplete
+C:\Users\OscarWolter\source\repos\BerrasBio\Infrastructure\obj\Debug\netcoreapp2.1\BerrasBio.Infrastructure.dll
+C:\Users\OscarWolter\source\repos\BerrasBio\Infrastructure\obj\Debug\netcoreapp2.1\BerrasBio.Infrastructure.pdb

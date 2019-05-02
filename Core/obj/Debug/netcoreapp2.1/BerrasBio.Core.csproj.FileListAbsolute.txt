@@ -1,0 +1,18 @@
+C:\Users\OscarWolter\source\repos\Berras bio\Core\bin\Debug\netcoreapp2.1\BerrasBio.Core.deps.json
+C:\Users\OscarWolter\source\repos\Berras bio\Core\bin\Debug\netcoreapp2.1\BerrasBio.Core.dll
+C:\Users\OscarWolter\source\repos\Berras bio\Core\bin\Debug\netcoreapp2.1\BerrasBio.Core.pdb
+C:\Users\OscarWolter\source\repos\Berras bio\Core\obj\Debug\netcoreapp2.1\BerrasBio.Core.csprojAssemblyReference.cache
+C:\Users\OscarWolter\source\repos\Berras bio\Core\obj\Debug\netcoreapp2.1\BerrasBio.Core.csproj.CoreCompileInputs.cache
+C:\Users\OscarWolter\source\repos\Berras bio\Core\obj\Debug\netcoreapp2.1\BerrasBio.Core.AssemblyInfoInputs.cache
+C:\Users\OscarWolter\source\repos\Berras bio\Core\obj\Debug\netcoreapp2.1\BerrasBio.Core.AssemblyInfo.cs
+C:\Users\OscarWolter\source\repos\Berras bio\Core\obj\Debug\netcoreapp2.1\BerrasBio.Core.dll
+C:\Users\OscarWolter\source\repos\Berras bio\Core\obj\Debug\netcoreapp2.1\BerrasBio.Core.pdb
+C:\Users\OscarWolter\source\repos\BerrasBio\Core\bin\Debug\netcoreapp2.1\BerrasBio.Core.deps.json
+C:\Users\OscarWolter\source\repos\BerrasBio\Core\bin\Debug\netcoreapp2.1\BerrasBio.Core.dll
+C:\Users\OscarWolter\source\repos\BerrasBio\Core\bin\Debug\netcoreapp2.1\BerrasBio.Core.pdb
+C:\Users\OscarWolter\source\repos\BerrasBio\Core\obj\Debug\netcoreapp2.1\BerrasBio.Core.csprojAssemblyReference.cache
+C:\Users\OscarWolter\source\repos\BerrasBio\Core\obj\Debug\netcoreapp2.1\BerrasBio.Core.csproj.CoreCompileInputs.cache
+C:\Users\OscarWolter\source\repos\BerrasBio\Core\obj\Debug\netcoreapp2.1\BerrasBio.Core.AssemblyInfoInputs.cache
+C:\Users\OscarWolter\source\repos\BerrasBio\Core\obj\Debug\netcoreapp2.1\BerrasBio.Core.AssemblyInfo.cs
+C:\Users\OscarWolter\source\repos\BerrasBio\Core\obj\Debug\netcoreapp2.1\BerrasBio.Core.dll
+C:\Users\OscarWolter\source\repos\BerrasBio\Core\obj\Debug\netcoreapp2.1\BerrasBio.Core.pdb
